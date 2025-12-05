@@ -6,7 +6,9 @@ start with **this README** and then refer to below documentation for better unde
 - **DockerSetup.md** – Instructions to build and run the service using Docker  
 
 - **Interactive API documentation** (Swagger UI):  
-Use http://127.0.0.1:8000/docs
+Use http://127.0.0.1:8000/docsz
+
+- **[Here’s the link to the demo videos for this application](https://github.com/saimedhi/alma-lead-manager/pull/2#issue-3697257016)**
 
 ------
 
