@@ -1,14 +1,18 @@
 This repository contains a lightweight backend service built for the alma.  
 start with **this README** and then refer to below documentation for better understanding of this project:
 
+- **[Here’s the link to the demo videos for this application](https://github.com/saimedhi/alma-lead-manager/pull/2#issue-3697257016)**
+
 - **DESIGN.md** – System architecture, requirements, data model, production notes    
 - **ArchitectureDiagram.md** – Visual overview of system flow  
 - **DockerSetup.md** – Instructions to build and run the service using Docker  
 
 - **Interactive API documentation** (Swagger UI):  
-Use http://127.0.0.1:8000/docsz
+Use http://127.0.0.1:8000/docs
 
-- **[Here’s the link to the demo videos for this application](https://github.com/saimedhi/alma-lead-manager/pull/2#issue-3697257016)**
+- Report any bugs or improvements under the “[Feedback & Improvements](https://github.com/saimedhi/alma-lead-manager/issues/1)” issue.
+
+
 
 ------
 
